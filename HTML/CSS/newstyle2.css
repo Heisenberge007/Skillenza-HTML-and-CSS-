@@ -1,0 +1,17 @@
+p{
+    color : red;
+}
+body{
+    background-image : url("C:\Users\SUBHAM\Documents\skilleza\wp2638396.jpg");
+    background-size: cover;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color:red;
+
+}
+a.hover{
+    color: yellowgreen;
+}
